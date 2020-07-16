@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+.image{
+  padding-top: 10%;
+}
+.cover{
+  padding-top: 10%;
+}
+a{
+  margin: 10px 10px 10px 10px;
+}
+.name{
+  padding-top: 12%;
+  color:rgb(10, 86, 238);
+  padding-left:15%;
+ 
+}
+.about-me{
+  text-align: left;
+  color: #779ECB;
+  padding-top: 5%;
+  display: flex;
+  justify-content: flex-start;
+}
+.nav{
+  position:fixed ;
+  background:#56A0D3;
+  z-index: 99;
+}
+.info{
+  text-align: left;
+  color: #779ECB;
+}
+.language{
+  text-align: left;
+  color: #779ECB;
+}
+.expe{
+  text-align: left;
+  color: #779ECB;
+}
+.edu{
+  text-align: left;
+  color:#779ECB;
+}
+.skills{
+  text-align: left;
+  color: #779ECB;
+}
+.card{
+  background-color: #0018A8;
+}
+.cv{
+  padding-top: 4%;
+}
+.works{
+  padding-top: 10%;
+}
+.des{
+  color: #7CB9E8;
+}
+.card{
+  height: 100%;
+}
